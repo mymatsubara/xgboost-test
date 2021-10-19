@@ -1,0 +1,1 @@
+Dados da competição de uma [competição no kaggle](https://www.kaggle.com/c/forest-cover-type-prediction/data?select=train.csv)
